@@ -1,5 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//BTVWeather//EN
-
+BEGIN:VEVENT
+UID:547b6c3056c44d9e5471525ae5939e1392e6a9bbdc6e7467cc2f461f52476e81@btv-weather
+DTSTAMP:20261016T122600Z
+DTSTART:20261016T122600Z
+DTEND:20261016T200000Z
+SUMMARY:Wind Advisory - Eastern Clinton\; Grand Isle\; Western Franklin\; Western Chittenden
+DESCRIPTION:Wind Advisory issued October 16 at 8:26AM EDT until October 16 at 4:00PM EDT by NWS Burlington VT\nArea: Eastern Clinton\; Grand Isle\; Western Franklin\; Western Chittenden\nStarts: 2026-10-16T08:26:00-04:00\nEnds: 2026-10-16T16:00:00-04:00\n\nSummary:\n* WHAT...South winds 20 to 30 mph with gusts up to 45 mph.\n\n* WHERE...In New York\, Eastern Clinton County. In Vermont\, Grand\nIsle\, Western Chittenden\, and Western Franklin Counties.\n\n* WHEN...Until 4 PM EDT this afternoon.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.\n\n* ADDITIONAL DETAILS...The strongest gusts will be on southeast\nfacing shorelines and across Lake Champlain.\n\nInstructions:\nWinds this strong can make driving difficult\, especially for high\nprofile vehicles. Use extra caution.\n\nSecure outdoor objects.
+END:VEVENT
 END:VCALENDAR
