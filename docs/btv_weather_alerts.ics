@@ -1,5 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//BTVWeather//EN
-
+BEGIN:VEVENT
+UID:c79a07d72e7cb579ec824054f51f5b4044de0de635a5d729c5470174b50cca1e@btv-weather
+DTSTAMP:20261017T164300Z
+DTSTART:20261018T050000Z
+DTEND:20261018T130000Z
+SUMMARY:Freeze Warning - Tuscarawas\; Carroll\; Columbiana\; Coshocton\; Harrison\; Jefferson\; Muskingum\; Guernsey\; Belmont\; Noble\; Monroe\; Mercer\; Venango\; Forest\; Lawrence\; Butler\; Clarion\; Jefferson\; Beaver\; Allegheny\; Armstrong\; Washington\; Greene\; Westmoreland\; Westmoreland Ridges\; Fayette\; Fayette Ridges\; Indiana\; Higher Elevations of Indiana\; Hancock\; Brooke\; Ohio\; Marshall\; Wetzel\; Marion\; Monongalia\; Ridges of Eastern Monongalia and Northwestern Preston\; Preston\; Eastern Preston\; Western Tucker\; Eastern Tucker
+DESCRIPTION:Freeze Warning issued October 17 at 12:43PM EDT until October 18 at 9:00AM EDT by NWS Pittsburgh PA\nArea: Tuscarawas\; Carroll\; Columbiana\; Coshocton\; Harrison\; Jefferson\; Muskingum\; Guernsey\; Belmont\; Noble\; Monroe\; Mercer\; Venango\; Forest\; Lawrence\; Butler\; Clarion\; Jefferson\; Beaver\; Allegheny\; Armstrong\; Washington\; Greene\; Westmoreland\; Westmoreland Ridges\; Fayette\; Fayette Ridges\; Indiana\; Higher Elevations of Indiana\; Hancock\; Brooke\; Ohio\; Marshall\; Wetzel\; Marion\; Monongalia\; Ridges of Eastern Monongalia and Northwestern Preston\; Preston\; Eastern Preston\; Western Tucker\; Eastern Tucker\nStarts: 2026-10-18T01:00:00-04:00\nEnds: 2026-10-18T09:00:00-04:00\n\nSummary:\n* WHAT...Sub-freezing temperatures in the upper 20s to around 30\nexpected.\n\n* WHERE...Portions of east central Ohio\, western Pennsylvania\, and\nnorthern West Virginia.\n\n* WHEN...From 1 AM to 9 AM EDT Sunday.\n\n* IMPACTS...Frost and freeze conditions could kill crops and other\nsensitive vegetation.\n\nInstructions:\nTake steps now to protect tender plants from the cold.
+END:VEVENT
 END:VCALENDAR
