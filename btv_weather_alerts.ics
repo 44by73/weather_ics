@@ -1,5 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//BTVWeather//EN
-
+BEGIN:VEVENT
+UID:1d75dab4b45cafd2df69367e58ebd4275e4d4bdbe84724d32f663dc44f93ca3f@btv-weather
+DTSTAMP:20261028T204000Z
+DTSTART:20261028T204000Z
+DTEND:20261029T100000Z
+SUMMARY:Special Weather Statement - Grand Isle\; Western Franklin\; Orleans\; Western Chittenden\; Lamoille\; Washington\; Western Addison\; Western Rutland\; Eastern Franklin\; Eastern Chittenden\; Eastern Addison\; Eastern Rutland\; Western Windsor
+DESCRIPTION:Special Weather Statement issued October 28 at 4:40PM EDT by NWS Burlington VT\nArea: Grand Isle\; Western Franklin\; Orleans\; Western Chittenden\; Lamoille\; Washington\; Western Addison\; Western Rutland\; Eastern Franklin\; Eastern Chittenden\; Eastern Addison\; Eastern Rutland\; Western Windsor\nStarts: 2026-10-28T16:40:00-04:00\nEnds: 2026-10-29T06:00:00-04:00\n\nSummary:\n* AFFECTED AREA...Most of Vermont\, except the Connecticut River\nValley and parts of southern Vermont.\n\n* WINDS...Southwest 5 to 15 mph with gusts 20 to 35 mph\, highest\nin the Champlain Valley.\n\n* RELATIVE HUMIDITY...As low as 45 to 50 percent.\n\n* TEMPERATURES...60 to 65 degrees.\n\n* FUELS...Per coordination with our partners\, the recent dry\nweather has caused leaf litter\, across the region to dry out.\n\n* IMPACTS...If any fires were to start the weather and fuel\nconditions could cause fires to quickly get out of control and\nbe difficult to contain.\n\nFor more information about the current fire danger rating\, any burn\nrestrictions\, and wildfire prevention and education\, please visit\nyour state forestry or environmental protection website.\n\nInstructions:\nNo additional instructions.
+END:VEVENT
 END:VCALENDAR
